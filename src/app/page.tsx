@@ -11,7 +11,7 @@ export default function Home() {
     "Zustand",
     "React Hook Form",
     "Axios",
-    "Framer Motion",
+    // "Framer Motion",
     "shadcn/ui"
   ]
   return (
